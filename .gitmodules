@@ -1,0 +1,3 @@
+[submodule "iwslt2023_mr-hi"]
+	path = iwslt2023_mr-hi
+	url = https://github.com/panlingua/iwslt2023_mr-hi.git
