@@ -15,7 +15,7 @@ iwslt2025_mr-hi/
 │  	└─ dev/
 │  	└─ test-2023/
 │  	└─ test-2024 (only audio files for the IWSLT 2024 evaluation campaign)/
-│  ├─ test (only audio files for the IWSLT 2025 evaluation campaign)/
+│  ├─ test-2025 (only audio files for the IWSLT 2025 evaluation campaign)/
 │     └─ stamped.tsv
 │     └─ wav/
 ├─ LICENSE.md
@@ -30,9 +30,11 @@ iwslt2025_mr-hi/
 │ Marathi-Hindi (train)      		│      7990            	     │          7990                  │
 │ Marathi-Hindi (dev)        		│      2103                   │          2103                 │
 │ Marathi-Hindi (test 2023 & 2024)       │      2455                   │         2455                  │
-│ Marathi-Hindi (test)  		│      -                   │         -                   │
+│ Marathi-Hindi (test-2025)  		│      286                   │         -                   │
 ```
 * Participants can get the additional Marathi audio data (with transcription) from here: [Common Voice](https://commonvoice.mozilla.org/en/datasets), [OpenSLR](https://www.openslr.org/64/), and [Indian Language Corpora](https://www.cse.iitb.ac.in/~pjyothi/indiccorpora/).
+
+[April 2025 Update:] THE TEST DATA FOR 2025 IS NOW AVAILABLE [HERE](https://github.com/panlingua/iwslt2025_mr-hi/tree/main/test-2025) 
 
 # License
 Please see the [LICENSE](https://github.com/panlingua/iwslt2025_mr-hi/blob/main/LICENSE.md) file.
